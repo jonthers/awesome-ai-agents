@@ -111,6 +111,7 @@ General purpose, Build your own, Multi-agent
 
 ### Links
 - [Paper](https://arxiv.org/abs/2310.10108)
+- [Github](https://github.com/LehengTHU/Agent4Rec)
 
 </details>
 
